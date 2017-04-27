@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ouli/.android/build-cache/4851e5a7eb27d8f6247079c314c0aed9d025d629/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/ouli/.android/build-cache/133dcb40670012cc6905a04650f6c11bef73e953/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/ouli/.android/build-cache/e13131a376335a34d1bc8c6dd53435222828180b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/ouli/.android/build-cache/03d19d1ca69b1ceaecc57a49851c28bcee5a2138/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/ouli/.android/build-cache/79bf16ef7e9c2664eec68a559d83dca743caf20e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/ouli/.android/build-cache/43f111ca40e4548e72b7b6e7e387aacca9924e06/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/ouli/.android/build-cache/04de57890ac6c68219a0efb73bae2dc437824e6e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/ouli/.android/build-cache/537abc8e6f63673dcdb329f9563259beb51927ab/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/ouli/.android/build-cache/b5cddbfa431fbdb3fd4809aea60aeb8faef106fd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/ouli/.android/build-cache/308af8e8ac807765e1091d0af0a4224d3520f22d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/ouli/.android/build-cache/12a0bb2d962498141035448a62041818dde51aff/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/ouli/.android/build-cache/71304cf40bda129d08d20b4480759994e24c87b5/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.lio2.lockproject.MainActivity
+ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.lio2.lockproject.MyDialog
+ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:22:9-45
+	android:name
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:22:19-43
+service#com.example.lio2.lockproject.MyService
+ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:23:9-46
+	android:name
+		ADDED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml:23:18-43
+uses-sdk
+INJECTED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ouli/.android/build-cache/4851e5a7eb27d8f6247079c314c0aed9d025d629/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/ouli/.android/build-cache/133dcb40670012cc6905a04650f6c11bef73e953/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/ouli/.android/build-cache/e13131a376335a34d1bc8c6dd53435222828180b/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/ouli/.android/build-cache/03d19d1ca69b1ceaecc57a49851c28bcee5a2138/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/ouli/.android/build-cache/79bf16ef7e9c2664eec68a559d83dca743caf20e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/ouli/.android/build-cache/a124dc899b1fda321b859716dd6b1a08116ef225/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/ouli/.android/build-cache/43f111ca40e4548e72b7b6e7e387aacca9924e06/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/ouli/.android/build-cache/04de57890ac6c68219a0efb73bae2dc437824e6e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/ouli/.android/build-cache/537abc8e6f63673dcdb329f9563259beb51927ab/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/ouli/.android/build-cache/b5cddbfa431fbdb3fd4809aea60aeb8faef106fd/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/ouli/.android/build-cache/308af8e8ac807765e1091d0af0a4224d3520f22d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/ouli/.android/build-cache/12a0bb2d962498141035448a62041818dde51aff/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/ouli/.android/build-cache/71304cf40bda129d08d20b4480759994e24c87b5/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/ouli/.android/build-cache/133dcb40670012cc6905a04650f6c11bef73e953/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ouli/Downloads/LockProject/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/ouli/.android/build-cache/133dcb40670012cc6905a04650f6c11bef73e953/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/ouli/.android/build-cache/e13131a376335a34d1bc8c6dd53435222828180b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/ouli/.android/build-cache/03d19d1ca69b1ceaecc57a49851c28bcee5a2138/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/ouli/.android/build-cache/79bf16ef7e9c2664eec68a559d83dca743caf20e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/ouli/.android/build-cache/a124dc899b1fda321b859716dd6b1a08116ef225/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/ouli/.android/build-cache/43f111ca40e4548e72b7b6e7e387aacca9924e06/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/ouli/.android/build-cache/04de57890ac6c68219a0efb73bae2dc437824e6e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/ouli/.android/build-cache/537abc8e6f63673dcdb329f9563259beb51927ab/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/ouli/.android/build-cache/b5cddbfa431fbdb3fd4809aea60aeb8faef106fd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/ouli/.android/build-cache/308af8e8ac807765e1091d0af0a4224d3520f22d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/ouli/.android/build-cache/12a0bb2d962498141035448a62041818dde51aff/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/ouli/.android/build-cache/71304cf40bda129d08d20b4480759994e24c87b5/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/ouli/.android/build-cache/133dcb40670012cc6905a04650f6c11bef73e953/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/ouli/.android/build-cache/133dcb40670012cc6905a04650f6c11bef73e953/output/AndroidManifest.xml:26:9-47

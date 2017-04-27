@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/b5cddbfa431fbdb3fd4809aea60aeb8faef106fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1088a85ea0227f78ccf6f4640280e33830127a5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/308af8e8ac807765e1091d0af0a4224d3520f22d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3333e430fce5f583d4efb17f23adb144739d0a03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/a124dc899b1fda321b859716dd6b1a08116ef225/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20bc7709b9ad015365f7f01baef04cb54526686b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d5322120fd4346a74acbd4b2a8cf0a441ad0790d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/79bf16ef7e9c2664eec68a559d83dca743caf20e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1441f49c6f39d5bf4bf533bc956d513b5dea275e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/Downloads/LockProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b7536f82185d16839fdbf1aee7daf75ca7a02815/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/43f111ca40e4548e72b7b6e7e387aacca9924e06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42068d03165112e48501b67cc8d3745bbd13d3ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/Downloads/LockProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="946bdd1431c895b9f850498b5cf51fc9e4a1b4d1">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e37b19be145bf920861c72f4ddf549245824b0fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/e13131a376335a34d1bc8c6dd53435222828180b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e33d684f5b1633d55f908b0845418c6c7e017bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/133dcb40670012cc6905a04650f6c11bef73e953/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_501bed616a4f6caf71b848b35c896b5a0006feec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/4851e5a7eb27d8f6247079c314c0aed9d025d629/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3bab579b79b84da58ccca5f0d23c596778f9209/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/04de57890ac6c68219a0efb73bae2dc437824e6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd3139f07294d81438f6dd602abb2a644a41b454/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/03d19d1ca69b1ceaecc57a49851c28bcee5a2138/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58ea82b5ef2f8b39bd05a230fc2168051d7f65a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/71304cf40bda129d08d20b4480759994e24c87b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de7ec6cefb1fecd7f65b7d227ddfed111f7768c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/12a0bb2d962498141035448a62041818dde51aff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7626d96ba064a58aa140692f869dc85e6f8009e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c3c1a50fbcc721ba4e2618a4336eaa61c776080a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouli/.android/build-cache/537abc8e6f63673dcdb329f9563259beb51927ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc2c777e7b772c286a14eb42dc11bd6a2c1f5dbe/classes.dex" />
+    </item>
+
+</items>

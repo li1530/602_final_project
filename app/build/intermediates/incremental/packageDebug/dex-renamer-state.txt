@@ -1,0 +1,7 @@
+#Wed Apr 26 19:51:59 CDT 2017
+base.0=/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e37b19be145bf920861c72f4ddf549245824b0fb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b7536f82185d16839fdbf1aee7daf75ca7a02815/classes.dex
+base.1=/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b7536f82185d16839fdbf1aee7daf75ca7a02815
+file.0=/Users/ouli/Downloads/LockProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e37b19be145bf920861c72f4ddf549245824b0fb/classes.dex
